@@ -1,0 +1,7 @@
+SAMPLE PROGRAM OUTPUT
+=====================
+Example console run. For interactive programs, your output depends on the input you enter.
+
+$ python alpha_beta.py
+Enter 8 leaf values separated by spaces: 3 5 2 9 69 5 23 63
+Optimal value: 63
